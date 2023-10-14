@@ -1,5 +1,5 @@
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=irumaru&langs_count=10&hide=javascript,html,java)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irumaru&show_icons=true&theme=transparent)
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=irumaru&langs_count=4&hide=javascript,html,java)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=irumaru&show_icons=true)
 
 <!--
 **irumaru/irumaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
