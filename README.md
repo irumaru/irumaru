@@ -1,4 +1,4 @@
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=irumaru&langs_count=4&hide=javascript,html,java,jupyter%20notebook)
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=irumaru&langs_count=4&hide=javascript,html,java,jupyter%20notebook,Astro)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=irumaru&show_icons=true)
 
 <!--
